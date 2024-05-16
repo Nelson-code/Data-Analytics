@@ -6,7 +6,6 @@ This internship includes three tasks:
 2. Corona Virus Analysis with SQL
 3. Hotel Aggregator Analysis with Power BI/Tableau
 
-
 1. Reels Task on SQL topic
 Create a original, 1 minute video on topic "ALTER Statement: Modifying the structure of existing database objects using the ALTER statement."
 
