@@ -1,4 +1,4 @@
-# Mentorness_Internship
+# MeinHardt Data Analyst Internship
 
 This internship includes three tasks:
 
